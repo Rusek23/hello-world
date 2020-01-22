@@ -11,3 +11,9 @@ Designing a game to challenge the great minds that humanity has to offer is my g
 
 Day 1:
 Let's begin. 
+
+
+LearnCodeAcademy top 11 commands daily:
+
+push, pull, add, rm, checkout, commit, branch, status, list, merge, diff
+
