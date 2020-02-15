@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rusek Website</title>
+</head>
+<body>
+	<p>This is a paragraph</p>
+	<p>This is another paragraph</p>
+	<h1>BIG</h1>
+	<h2>Medium</h2>
+	<h3>Small</h3>
+	What is up my first website  This is <strong>BOLD</strong><br>
+					This is <em>italic</em><br>
+					<a href="https://www.google.com/">google.com</a>
+
+					<img src="https://dogsnet.com/wp-content/uploads/2018/12/australian-cattle-dog-lab-mix-long.jpg">
+		<ul>
+			<li>item 1</li>
+			<li>item 2</li>
+		</ul>
+
+</html>
+</body>
