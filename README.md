@@ -38,4 +38,8 @@ git pull			#pulls the newest version of git
 
 still confused on changes not being saved when just text is changed and not a new file added.  
 
+UPDATE: learned how to ^ commit and push modiefied files with git
+git commit -m "comment" <filename> 
+git push
+
 
