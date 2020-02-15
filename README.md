@@ -43,6 +43,7 @@ git commit -m "comment" <'filename'>
 git push
 
 2/15/2020
+
 <'escape'> :wq     this is how to get out for a full commit
 or a commit where you don't put -m
 
