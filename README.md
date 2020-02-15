@@ -22,4 +22,20 @@ push, pull, add, rm, checkout, commit, branch, status, list, merge, diff
 
 Little progress has been made.  This is directly related to my time prioritization lacking. I am excited to wake up tomorrow at 4:30am, brew a steaming cup of coffee and dig real deep into Linear Regression and modeling relationships with implementation. 
 
+2/15/2020
+
+GitHub tutorial is making progress.  I learned how to push/pull a git project into sublime text. 
+git status 			#status of git versions
+
+git commit 			#commits your changes locally
+
+git add 			#adds your new changes to local version
+
+git push			#pushes local version to the github
+
+git pull			#pulls the newest version of git
+
+
+still confused on changes not being saved when just text is changed and not a new file added.  
+
 
