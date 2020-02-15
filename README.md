@@ -27,9 +27,9 @@ Little progress has been made.  This is directly related to my time prioritizati
 GitHub tutorial is making progress.  I learned how to push/pull a git project into sublime text. 
 git status 			#status of git versions
 
-git commit 			#commits your changes locally
+git commit -m 		#commits your changes locally
 
-git add 			#adds your new changes to local version
+git add -A			#adds your new changes to local version
 
 git push			#pushes local version to the github
 
@@ -43,3 +43,11 @@ git commit -m "comment" <filename>
 git push
 
 
+<escape> :wq     this is how to get out for a full commit
+or a commit where you don't put -m
+
+help window in cmd prompt by typing git
+
+get clone <git link> 	#This is how you create a git folder wherever you want on your machine.
+
+	
